@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+###[![Pratik github stats](https://github-readme-stats.vercel.app/api?username=pratikmmohite)](https://github.com/PratikMMohite)
 <!--
 **PratikMMohite/PratikMMohite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
